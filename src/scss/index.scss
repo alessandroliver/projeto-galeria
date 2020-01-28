@@ -1,0 +1,6 @@
+@import "~bootstrap/scss/bootstrap";
+//sobreescrevendo uma variável do sass, pra dizer onde vai encontrar o diretório das fontes
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+
+@import "custom";
